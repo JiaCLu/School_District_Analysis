@@ -13,7 +13,10 @@ The PyCitySchools analysis replaced the ninth grade students in Thomas High Scho
 
 Replacing the ninth graders' math and reading scores affect Thomas High School's performance and overall passing percentage.
 * In the district_summary data frame, the overall passing percentage decrease to 64.9%.
+![district](https://github.com/bobocomfy/School_District_Analysis/blob/main/Analysis%20Png%20DataFrame/District.png)
 * Due to the grade's replacing with NaN, Thomas High School is not in the top five schools list. 
+![top_five](https://github.com/bobocomfy/School_District_Analysis/blob/main/Analysis%20Png%20DataFrame/Top_five.png)
+
 
 The ninth-grade scores replacing with NaN affect the following:
 * Thomas High School overall passing percentage decrease to 64.86%
